@@ -33,10 +33,8 @@ Install the Estonian language pack via composer is never easier.
 **Install Estonian pack**:
 
 ```
-composer require mageplaza/magento-2-estonian-language-pack:dev-master
-php bin/magento cache:clean
+composer require mageplaza/magento-2-estonian-language-pack
 php bin/magento setup:static-content:deploy et_EE
-php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
 
@@ -46,8 +44,7 @@ php bin/magento cache:flush
 **Update  Estonian pack**:
 
 ```
-composer update mageplaza/magento-2-estonian-language-pack:dev-master
-php bin/magento cache:clean
+composer update mageplaza/magento-2-estonian-language-pack
 php bin/magento setup:static-content:deploy et_EE
 php bin/magento indexer:reindex
 php bin/magento cache:clean
