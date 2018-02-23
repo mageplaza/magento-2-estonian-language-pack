@@ -1,6 +1,6 @@
 ## Magento 2 Estonian Language Pack
 
-Using the native language is always the ideal way to attract the target market as Estonia. Therefore, in this post, I offer **Magento 2 Estonian Language Pack** for the settings language on your magento 2 store. It is easy to convert over 12,000 words and phrases of the frontend and backend into the needed language, namely as Estonian.
+Using the native language is always the ideal way to attract the target market as Estonia. Therefore, in this post, I offer **Magento 2 Estonian Language Pack** for the setting language on your Magento 2 store. It is easy to convert over 12,000 words and phrases of the frontend and backend into the needed language, namely as Estonian.
 
 Read more [Magento 2 Estonian Language Pack](https://www.mageplaza.com/magento-2-estonian-language-pack.html)
 
@@ -136,6 +136,7 @@ Contribute to this language at https://crowdin.com/project/magento-2/et
 - Magento v2.0.13
 - Magento v2.0.14
 - Magento v2.0.15
+- Magento v2.0.16
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
@@ -145,6 +146,10 @@ Contribute to this language at https://crowdin.com/project/magento-2/et
 - Magento v2.1.6
 - Magento v2.1.7
 - Magento v2.1.8
+- Magento v2.1.10
+- Magento v2.2.0
+- Magento v2.2.1
+- Magento v2.2.2
 
 
 
