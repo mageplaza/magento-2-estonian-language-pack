@@ -89,8 +89,11 @@ Unzip the Estonian language pack to Magento 2 root folder. In this guide, we ext
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/et_ee
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-estonian-language-pack` to `et_ee`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Estonian pack manually, you have to access to your serve
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `et_EE.zip` into `app/i18n/mageplaza/et_EE/et_EE.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/et_ee/et_EE.csv`
+
+See this screenshot
+
+![Estonian pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
