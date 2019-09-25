@@ -16222,73 +16222,73 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","Kokkuvõte",theme,frontend/Magento/blank
-"Account Dashboard","Konto töölaud",theme,frontend/Magento/blank
-"Account Information","Konto andmed",theme,frontend/Magento/blank
-"Address Book","Aadressiraamat",theme,frontend/Magento/blank
-"Menu","Menüü",theme,frontend/Magento/blank
-"Account","Konto",theme,frontend/Magento/blank
-"Settings","Seaded",theme,frontend/Magento/blank
-"Now Shopping by","Ostlemise moodus",theme,frontend/Magento/luma
-"Previous","Eelmine",theme,frontend/Magento/luma
-"Remove","Eemalda",theme,frontend/Magento/luma
-"Remove This Item","Eemalda toode",theme,frontend/Magento/luma
-"Shop By","Vali",theme,frontend/Magento/luma
-"Clear All","Tühjenda kõik",theme,frontend/Magento/luma
-"Shopping Options","Ostlemise Valikud",theme,frontend/Magento/luma
-"Welcome to %store_name","Tere tulemast poodi %store_name",theme,frontend/Magento/luma
-"%name,","%name,",theme,frontend/Magento/luma
-"Welcome to %store_name.","Tere tulemast poodi %store_name.",theme,frontend/Magento/luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Meie poodi sisselogimiseks kasutage neid tunnuseid. Sama saate teha ka tellimuse vormistamisel ja/või <a href=""%customer_url""> Minu konto </a> lehel:",theme,frontend/Magento/luma
-"Email:","E-post:",theme,frontend/Magento/luma
-"Password:","Salasõna:",theme,frontend/Magento/luma
-"Password you set when creating account","Konto loomisel määratud parool",theme,frontend/Magento/luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Unustasid oma salasõna? Klõpsake <a href=""%reset_url""> siin </a>, et seda uuendada.",theme,frontend/Magento/luma
-"When you sign in to your account, you will be able to:","Peale sisse logimist on teile võimalik teha järgnevaid toiminguid:",theme,frontend/Magento/luma
-"Quick Checkout","Kiire ostuprotsess",theme,frontend/Magento/luma
-"Proceed through checkout faster","Kulge läbi ostuprotsessi kiiremini",theme,frontend/Magento/luma
-"Order Status","Tellimuse staatus",theme,frontend/Magento/luma
-"Check the status of orders","Jälgida oma tellimuste staatuseid",theme,frontend/Magento/luma
-"Manage Addresses","Halda aadresse",theme,frontend/Magento/luma
-"Store alternative addresses","Poe alternatiivsed aadressid",theme,frontend/Magento/luma
-"For shipping to multiple family members and friends","Tarnimine mitmele pereliikmele või sõbrale",theme,frontend/Magento/luma
-"Order History","Tellimuste ajalugu",theme,frontend/Magento/luma
-"View past orders","Vaadata vanu tellimusi",theme,frontend/Magento/luma
-"Footer","Jalus",theme,frontend/Magento/luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend/Magento/luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend/Magento/luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Tööaeg: < br / &gt; <span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
-"Credit memo for your %store_name order","Teie kreeditarve %store_name poest",theme,frontend/Magento/luma
-"Thank you for your order from %store_name.","Suur tänu teie tellimuse eest %store_name poest.",theme,frontend/Magento/luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Saate oma tellimuse staatust jälgida kui <a href=""%account_url"">logite oma kontole sisse</a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Kui teil on küsimusi oma tellimuse kohta, siis saatke meile e-mail aadressil <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Teie krediidi info #%creditmemo_id tellimusele #%order_id",theme,frontend/Magento/luma
-"Billing Info","Arveldamise info",theme,frontend/Magento/luma
-"Shipping Info","Tarne info",theme,frontend/Magento/luma
-"Payment Method","Makseviis",theme,frontend/Magento/luma
-"Shipping Method","Tarneviis",theme,frontend/Magento/luma
-"Update to your %store_name credit memo","Uuendus teie %store_name krediidi infole",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Teie tellimusel #%increment_id on muudetud staatust <strong>%order_status</strong>.",theme,frontend/Magento/luma
-"Invoice for your %store_name order","%store_name arve",theme,frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","Teie arve nr%invoice_id tellimusele nr%order_id",theme,frontend/Magento/luma
-"Update to your %store_name invoice","Uuendus %store_name arvele",theme,frontend/Magento/luma
-"Your %store_name order confirmation","%store_name tellimuse kinnitus",theme,frontend/Magento/luma
-"%customer_name,","%customer_name,",theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.","Saadame Teile jälgmisnumbri niipea kui oleme paki teele pannud.",theme,frontend/Magento/luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Teie tellimus <span class=""no-link""> #%increment_id</span>",theme,frontend/Magento/luma
-"Placed on <span class=""no-link"">%created_at</span>","Tellimus tehtud <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Update to your %store_name order","Uuendage oma %store_name tellimust",theme,frontend/Magento/luma
-"Your %store_name order has shipped","Teie %store_name tellimus on teele pandud",theme,frontend/Magento/luma
-"Your shipping confirmation is below. Thank you again for your business.","Täname teid tellimuse eest. Alltoodult on teie tarneinfo.",theme,frontend/Magento/luma
-"Your Shipment #%shipment_id for Order #%order_id","Teie saadetise #%shipment_id tellimusele #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name shipment","Uuendatud info teie %store_name tellimusele",theme,frontend/Magento/luma
-"Account Dashboard","Konto töölaud",theme,frontend/Magento/luma
-"Address Book","Aadressiraamat",theme,frontend/Magento/luma
-"Account Information","Konto andmed",theme,frontend/Magento/luma
-"About Us","Meist",theme,frontend/Magento/luma
-"Customer Service","Klienditeenindus",theme,frontend/Magento/luma
-"My Account","Minu konto",theme,frontend/Magento/luma
+"Summary","Kokkuvõte",theme,frontend\Magento\blank
+"Account Dashboard","Konto töölaud",theme,frontend\Magento\blank
+"Account Information","Konto andmed",theme,frontend\Magento\blank
+"Address Book","Aadressiraamat",theme,frontend\Magento\blank
+"Menu","Menüü",theme,frontend\Magento\blank
+"Account","Konto",theme,frontend\Magento\blank
+"Settings","Seaded",theme,frontend\Magento\blank
+"Now Shopping by","Ostlemise moodus",theme,frontend\Magento\luma
+"Previous","Eelmine",theme,frontend\Magento\luma
+"Remove","Eemalda",theme,frontend\Magento\luma
+"Remove This Item","Eemalda toode",theme,frontend\Magento\luma
+"Shop By","Vali",theme,frontend\Magento\luma
+"Clear All","Tühjenda kõik",theme,frontend\Magento\luma
+"Shopping Options","Ostlemise Valikud",theme,frontend\Magento\luma
+"Welcome to %store_name","Tere tulemast poodi %store_name",theme,frontend\Magento\luma
+"%name,","%name,",theme,frontend\Magento\luma
+"Welcome to %store_name.","Tere tulemast poodi %store_name.",theme,frontend\Magento\luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Meie poodi sisselogimiseks kasutage neid tunnuseid. Sama saate teha ka tellimuse vormistamisel ja/või <a href=""%customer_url""> Minu konto </a> lehel:",theme,frontend\Magento\luma
+"Email:","E-post:",theme,frontend\Magento\luma
+"Password:","Salasõna:",theme,frontend\Magento\luma
+"Password you set when creating account","Konto loomisel määratud parool",theme,frontend\Magento\luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Unustasid oma salasõna? Klõpsake <a href=""%reset_url""> siin </a>, et seda uuendada.",theme,frontend\Magento\luma
+"When you sign in to your account, you will be able to:","Peale sisse logimist on teile võimalik teha järgnevaid toiminguid:",theme,frontend\Magento\luma
+"Quick Checkout","Kiire ostuprotsess",theme,frontend\Magento\luma
+"Proceed through checkout faster","Kulge läbi ostuprotsessi kiiremini",theme,frontend\Magento\luma
+"Order Status","Tellimuse staatus",theme,frontend\Magento\luma
+"Check the status of orders","Jälgida oma tellimuste staatuseid",theme,frontend\Magento\luma
+"Manage Addresses","Halda aadresse",theme,frontend\Magento\luma
+"Store alternative addresses","Poe alternatiivsed aadressid",theme,frontend\Magento\luma
+"For shipping to multiple family members and friends","Tarnimine mitmele pereliikmele või sõbrale",theme,frontend\Magento\luma
+"Order History","Tellimuste ajalugu",theme,frontend\Magento\luma
+"View past orders","Vaadata vanu tellimusi",theme,frontend\Magento\luma
+"Footer","Jalus",theme,frontend\Magento\luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend\Magento\luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend\Magento\luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend\Magento\luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Tööaeg: < br / &gt; <span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
+"Credit memo for your %store_name order","Teie kreeditarve %store_name poest",theme,frontend\Magento\luma
+"Thank you for your order from %store_name.","Suur tänu teie tellimuse eest %store_name poest.",theme,frontend\Magento\luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Saate oma tellimuse staatust jälgida kui <a href=""%account_url"">logite oma kontole sisse</a>.",theme,frontend\Magento\luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Kui teil on küsimusi oma tellimuse kohta, siis saatke meile e-mail aadressil <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend\Magento\luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Teie krediidi info #%creditmemo_id tellimusele #%order_id",theme,frontend\Magento\luma
+"Billing Info","Arveldamise info",theme,frontend\Magento\luma
+"Shipping Info","Tarne info",theme,frontend\Magento\luma
+"Payment Method","Makseviis",theme,frontend\Magento\luma
+"Shipping Method","Tarneviis",theme,frontend\Magento\luma
+"Update to your %store_name credit memo","Uuendus teie %store_name krediidi infole",theme,frontend\Magento\luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Teie tellimusel #%increment_id on muudetud staatust <strong>%order_status</strong>.",theme,frontend\Magento\luma
+"Invoice for your %store_name order","%store_name arve",theme,frontend\Magento\luma
+"Your Invoice #%invoice_id for Order #%order_id","Teie arve nr%invoice_id tellimusele nr%order_id",theme,frontend\Magento\luma
+"Update to your %store_name invoice","Uuendus %store_name arvele",theme,frontend\Magento\luma
+"Your %store_name order confirmation","%store_name tellimuse kinnitus",theme,frontend\Magento\luma
+"%customer_name,","%customer_name,",theme,frontend\Magento\luma
+"Once your package ships we will send you a tracking number.","Saadame Teile jälgmisnumbri niipea kui oleme paki teele pannud.",theme,frontend\Magento\luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Teie tellimus <span class=""no-link""> #%increment_id</span>",theme,frontend\Magento\luma
+"Placed on <span class=""no-link"">%created_at</span>","Tellimus tehtud <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
+"Update to your %store_name order","Uuendage oma %store_name tellimust",theme,frontend\Magento\luma
+"Your %store_name order has shipped","Teie %store_name tellimus on teele pandud",theme,frontend\Magento\luma
+"Your shipping confirmation is below. Thank you again for your business.","Täname teid tellimuse eest. Alltoodult on teie tarneinfo.",theme,frontend\Magento\luma
+"Your Shipment #%shipment_id for Order #%order_id","Teie saadetise #%shipment_id tellimusele #%order_id",theme,frontend\Magento\luma
+"Update to your %store_name shipment","Uuendatud info teie %store_name tellimusele",theme,frontend\Magento\luma
+"Account Dashboard","Konto töölaud",theme,frontend\Magento\luma
+"Address Book","Aadressiraamat",theme,frontend\Magento\luma
+"Account Information","Konto andmed",theme,frontend\Magento\luma
+"About Us","Meist",theme,frontend\Magento\luma
+"Customer Service","Klienditeenindus",theme,frontend\Magento\luma
+"My Account","Minu konto",theme,frontend\Magento\luma
 "Backup options","Varunduse haldamine",lib,web
 "Warning","Hoiatus",lib,web
 "Cancel","Tühista",lib,web
